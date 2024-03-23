@@ -1,5 +1,17 @@
 /*  your css code here. If applicable */
-	body{
-		background-color: yellow; 
-		text-align: center;
-		}
+	body {
+    background-color: yellow;
+    text-align: center;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+h1 {
+    font-style: italic;
+}
+
+p {
+    font-style: italic;
+}
